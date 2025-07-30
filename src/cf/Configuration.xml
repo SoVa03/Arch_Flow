@@ -496,12 +496,14 @@
 			<Catalog>ИсходящиеПисьма</Catalog>
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>Встречи</Catalog>
+			<Catalog>НовыйСправочник</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
 			<Document>ПоступлениеДенег</Document>
 			<Document>ПриходТовара</Document>
 			<Document>РасходТовара</Document>
+			<Document>НовыйДокумент</Document>
 			<DocumentJournal>ДокументыПродаж</DocumentJournal>
 			<DocumentJournal>ФинансовыеДокументы</DocumentJournal>
 			<Enum>ВидыТоваров</Enum>
